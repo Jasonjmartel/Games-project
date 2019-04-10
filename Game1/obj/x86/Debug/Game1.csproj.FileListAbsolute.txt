@@ -195,3 +195,5 @@ C:\Users\marj7_16\Downloads\Solo_Project_Comp3351_Production\Game project v1.7\G
 C:\Users\marj7_16\Downloads\Solo_Project_Comp3351_Production\Game project v1.7\Game1\bin\WindowsGL\Debug\MonoGame.Framework.dll
 C:\Users\marj7_16\Downloads\Solo_Project_Comp3351_Production\Game project v1.7\Game1\bin\WindowsGL\Debug\OpenTK.dll
 C:\Users\marj7_16\Downloads\Solo_Project_Comp3351_Production\Game project v1.7\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\marj7_16\Downloads\Games-project-Infirmary-master\Game1\obj\x86\Debug\Game1.exe
+C:\Users\marj7_16\Downloads\Games-project-Infirmary-master\Game1\obj\x86\Debug\Game1.pdb

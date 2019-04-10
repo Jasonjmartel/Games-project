@@ -43,6 +43,7 @@
     <Compile Include="Behaviours\PhysicsBehaviour.cs" />
     <Compile Include="Collision\Imobox.cs" />
     <Compile Include="Entities\BasicBlock.cs" />
+    <Compile Include="Entities\PlatformerCharacter.cs" />
     <Compile Include="Physics\PhysicsCalc.cs" />
     <Compile Include="Entities\BasicBall.cs" />
     <Compile Include="Collision\CollisionManager.cs" />
